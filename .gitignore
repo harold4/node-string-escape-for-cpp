@@ -1,3 +1,10 @@
+!.gitignore
+!.gitattributes
+!.gitbugtraq
+!.gitmodules
+!.giternal.yml
+
+
 # Logs
 logs
 *.log
