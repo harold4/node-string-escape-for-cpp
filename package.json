@@ -1,0 +1,25 @@
+{
+  "name": "@harold4/string-escape-for-cpp",
+  "version": "0.0.1",
+  "description": "Escape the string to use with c/c++",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/harold4/node-string-escape-for-cpp.git"
+  },
+  "keywords": [
+    "escape",
+    "c",
+    "cpp",
+    "string"
+  ],
+  "author": "Harold <harold@freemail.hu>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harold4/node-string-escape-for-cpp/issues"
+  },
+  "homepage": "https://github.com/harold4/node-string-escape-for-cpp#readme"
+}
